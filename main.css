@@ -1,0 +1,74 @@
+*{
+margin:0px;
+}
+html{
+background-image: url("https://wallpapers.walldevil.com/wallpapers/w03/preview/960989-trees.jpg");
+background-size:cover;
+background-repeat:no-repeat;
+}
+#heading{
+font-size:40px;
+color:white;
+position:relative;
+top:50px;
+magrin:40px 20px;
+text-align:center;
+}
+.Icons{
+display:flex;
+flex-wrap:wrap;
+justify-content:center;
+margin:100px 40px;
+}
+.link{
+text-align:center;
+font-size:30px;
+color:blue;
+background-color:rgba(255,255,255,0.9);
+border:5px solid blue;
+border-radius:50px;
+padding:15px 15px;
+margin:50px 50px;
+width:30%;
+}
+.happy{
+color:blue;
+text-decoration:none;
+margin:60px 30px;
+}
+.Footer{
+background-color:rgba(0,0,0,0.7);
+display:flex;
+flex-wrap:wrap;
+position:relative;
+top:15px;
+width:100%;
+font-size:16px;
+}
+#name{
+color:white;
+text-align:center;
+width:20%;
+height:25px;
+margin:auto;
+}
+#contact{
+color:red;
+position:relative;
+right:15px;
+margin:auto 0px;
+text-align:center;
+border:2px solid red;
+width:100px;
+height:25px;
+font-size:18px;
+}
+#share{
+color:white;
+padding:0px 10px;
+margin:auto 0px;
+}
+#twitter
+{
+padding:0px 5px;
+}
